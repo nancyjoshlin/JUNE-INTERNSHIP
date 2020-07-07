@@ -1,0 +1,155 @@
+.tileContainer{
+   box-shadow: 0 3px 6px;
+   margin-right: 30px;
+   margin-bottom: 30px;
+   width: 400px;
+   background-color:white;
+   display:inline-block;
+   
+}
+.tileComponent{
+  
+   display: inline;
+}
+.tileComponent1{
+  width:50%;
+  height:20%;
+  
+  float: left;
+}
+tileComponent2{
+   width:50%;
+  float: left;
+  margin-top: 20px;
+  
+}
+
+.componentHeading{
+   font-size: 20px;
+   color: navy;
+   margin-top: 20px; 
+   text-align: left
+}
+.componentSubHeading{
+   font-size: 14px;
+   color:gray;
+   text-align: left;
+   margin-bottom: 30px;
+}
+
+
+   
+
+.tileComponent1{
+   background-color:white;
+
+   float: left;
+   height:150px;
+   width:200px;  
+}
+.tileComponent2{
+   background-color: white;
+   float: left;
+   height:150px;
+   width:200px;  
+}
+.tileComponent3{
+   background-color: white;
+   float: left;
+   height:150px;
+   width:200px;  
+}
+.tileComponent4{
+   background-color:white;
+   float: left;
+   height:150px;
+   width:200px;  
+}
+.tileComponent5{
+   background-color:white;
+   float: left;
+   height:150px;
+   width: 200px;
+}
+.tileComponent6{
+   background-color:white;
+   float: left;
+   height:150px;
+   width:200px;  
+}
+
+.tileComponent7{
+   background-color:white;
+   float: left;
+   height:150px;
+   width:200px;  
+}
+
+.tileComponent8{
+   background-color:white;
+   float: left;
+   height:150px;
+   width:200px;  
+}
+.tileComponent9{
+   background-color:white;
+   float: left;
+   height:150px;
+   width:200px;  
+}
+
+.tileComponent10{
+   background-color:white;
+   float: left;
+   height:150px;
+   width:200px;  
+}
+.tileComponent11{
+   background-color:white;
+   float: left;
+   height:150px;
+   width:200px;  
+}
+.tileComponent12{
+   background-color:white;
+   float: left;
+   height:150px;
+   width:200px;  
+}
+.tileComponent13{
+   background-color:white;
+   float: left;
+   height:150px;
+   width:200px;  
+}
+.tileComponent14{
+   background-color:white;
+   float: left;
+   height:150px;
+   width:200px;  
+}
+
+.tileComponent15{
+   background-color:white;
+   float: left;
+   height:150px;
+   width:200px;  
+}
+.tileComponent16{
+   background-color:white;
+   float: left;
+   height:150px;
+   width:200px;  
+}
+.tileComponent17{
+   background-color:white;
+   float: left;
+   height:150px;
+   width:200px;  
+}
+.tileComponent18{
+   background-color:white;
+   float: left;
+   height:150px;
+   width:200px;  
+}

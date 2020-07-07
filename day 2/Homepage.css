@@ -8,8 +8,13 @@
 
 body{
    margin:auto;
-   
 }
+.a{
+   text-align: center;
+}
+   
+
+
 #logo{
    text-align: center;
    color:#EC0CCD;
@@ -19,7 +24,7 @@ body{
    width:150px;
    margin:auto;
    border-radius: 80%;
-   margin-top: 80px;
+   margin-top:80px;
    margin-bottom: 81px;
 }
 .heading{
@@ -69,6 +74,7 @@ body{
    margin-left: 5px
 
 }
+
 .quicksearchcontainer{
    margin-left: 115px;
    margin-top: 50px;
@@ -146,7 +152,7 @@ tileComponent2{
 .componentHeading{
    font-size: 20px;
    color: navy;
-   margin-top: 20px;
+   margin-top: 20px; 
    text-align: left
 }
 .componentSubHeading{
@@ -272,3 +278,8 @@ tileComponent2{
    height:150px;
    width:200px;  
 }
+.slideshow-container {
+   height:150;
+   position: relative;
+   margin: auto;
+ }
