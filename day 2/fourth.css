@@ -153,3 +153,20 @@ tileComponent2{
    height:150px;
    width:200px;  
 }
+.CuisineContainer{
+   margin-left: 115px;
+   margin-top: 50px;
+}
+.CuisineHeading{
+   width: 68px;
+  height: 25px;
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: var(--dark-slate-blue);
+}
